@@ -32,3 +32,13 @@ sysinfo.txt
 .vs
 Release/
 Debug/
+
+# json files
+*.json
+
+# update info files
+*.log
+*.txt
+ProjectSettings/ProjectVersion.txt
+Packages/manifest.json
+Logs/Packages-Update.log
